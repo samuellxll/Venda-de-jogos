@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(44, 75, 101);
+}
+
+#esquerda{
+
+    width: 20%;
+    margin: 0 auto;
+    float: left;
+}
+#direita{
+
+    width: 20%;
+    margin: 0 auto;
+    height: 100vh;
+    float: right;
+
+}
+#centro{
+    width: 50%;
+    margin: 0 auto 50px;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(208, 205, 193);
+}
+div{
+
+    opacity: 0.9;
+
+}
+.jogos:hover{
+
+    opacity: 0.5;
+    cursor: pointer;
+    
+}
+.img:hover{
+
+    opacity: 0.5;
+    cursor: pointer;
+    
+}
+
+
